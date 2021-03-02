@@ -1,0 +1,24 @@
+{
+  "name": "13-node-express-handlebars",
+  "version": "1.0.0",
+  "description": "A burger logger created with MySQL, Node, Express, Handlebars, and an ORM",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/altays/13-Node-Express-Handlebars.git"
+  },
+  "author": "Alex Taylor",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/altays/13-Node-Express-Handlebars/issues"
+  },
+  "homepage": "https://github.com/altays/13-Node-Express-Handlebars#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^4.0.3",
+    "mysql": "^2.18.1"
+  }
+}
